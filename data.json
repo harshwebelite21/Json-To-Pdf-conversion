@@ -1,0 +1,20 @@
+{
+  "title": "Sample JSON Data",
+  "users": [
+    {
+      "name": "John Doe",
+      "age": 30,
+      "country": "USA"
+    },
+    {
+      "name": "Alice Smith",
+      "age": 25,
+      "country": "Canada"
+    },
+    {
+      "name": "Mohammed Khan",
+      "age": 40,
+      "country": "India"
+    }
+  ]
+}
